@@ -1,5 +1,4 @@
 package com.jenkins_test.jenkins;
-
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
